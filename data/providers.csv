@@ -1,0 +1,81 @@
+provider_id,specialty,state,network_status
+PR0001,Cardiology,IN,In-Network
+PR0002,Oncology,NY,In-Network
+PR0003,Orthopedics,TX,Out-of-Network
+PR0004,Neurology,TX,In-Network
+PR0005,Dermatology,CA,Out-of-Network
+PR0006,Radiology,TX,In-Network
+PR0007,Dermatology,NY,Out-of-Network
+PR0008,Pediatrics,CA,In-Network
+PR0009,Neurology,TX,In-Network
+PR0010,General Practice,IN,In-Network
+PR0011,Cardiology,KY,Out-of-Network
+PR0012,Neurology,TX,In-Network
+PR0013,Orthopedics,CA,In-Network
+PR0014,Dermatology,KY,In-Network
+PR0015,Dermatology,OH,In-Network
+PR0016,Oncology,TX,In-Network
+PR0017,Neurology,TX,In-Network
+PR0018,Pediatrics,KY,Out-of-Network
+PR0019,Dermatology,KY,In-Network
+PR0020,Pediatrics,OH,In-Network
+PR0021,Cardiology,KY,In-Network
+PR0022,Orthopedics,OH,In-Network
+PR0023,Oncology,OH,In-Network
+PR0024,Orthopedics,NY,In-Network
+PR0025,Dermatology,CA,In-Network
+PR0026,General Practice,IN,In-Network
+PR0027,Radiology,IN,In-Network
+PR0028,Oncology,TX,Out-of-Network
+PR0029,Orthopedics,TX,Out-of-Network
+PR0030,Pediatrics,CA,Out-of-Network
+PR0031,Dermatology,OH,In-Network
+PR0032,Neurology,OH,Out-of-Network
+PR0033,Cardiology,KY,Out-of-Network
+PR0034,Cardiology,CA,In-Network
+PR0035,Pediatrics,NY,In-Network
+PR0036,Pediatrics,IN,In-Network
+PR0037,General Practice,NY,In-Network
+PR0038,General Practice,KY,In-Network
+PR0039,Orthopedics,TX,In-Network
+PR0040,Pediatrics,KY,In-Network
+PR0041,General Practice,NY,In-Network
+PR0042,Dermatology,TX,In-Network
+PR0043,Oncology,KY,In-Network
+PR0044,General Practice,IN,In-Network
+PR0045,General Practice,OH,Out-of-Network
+PR0046,Pediatrics,OH,In-Network
+PR0047,Dermatology,KY,In-Network
+PR0048,Oncology,NY,In-Network
+PR0049,Dermatology,CA,In-Network
+PR0050,Oncology,NY,In-Network
+PR0051,General Practice,NY,In-Network
+PR0052,Neurology,CA,In-Network
+PR0053,General Practice,TX,In-Network
+PR0054,General Practice,CA,In-Network
+PR0055,General Practice,NY,In-Network
+PR0056,Pediatrics,TX,In-Network
+PR0057,Pediatrics,CA,In-Network
+PR0058,Dermatology,CA,In-Network
+PR0059,Pediatrics,NY,In-Network
+PR0060,Pediatrics,IN,In-Network
+PR0061,Oncology,IN,In-Network
+PR0062,Pediatrics,TX,In-Network
+PR0063,Orthopedics,OH,In-Network
+PR0064,Orthopedics,OH,Out-of-Network
+PR0065,Oncology,OH,In-Network
+PR0066,General Practice,TX,In-Network
+PR0067,Neurology,NY,In-Network
+PR0068,Pediatrics,CA,In-Network
+PR0069,Pediatrics,KY,In-Network
+PR0070,Orthopedics,KY,In-Network
+PR0071,Radiology,NY,In-Network
+PR0072,Cardiology,TX,In-Network
+PR0073,Cardiology,OH,In-Network
+PR0074,Orthopedics,CA,In-Network
+PR0075,Radiology,KY,In-Network
+PR0076,Oncology,OH,Out-of-Network
+PR0077,Cardiology,CA,In-Network
+PR0078,Orthopedics,CA,Out-of-Network
+PR0079,Cardiology,OH,In-Network
+PR0080,Cardiology,NY,In-Network

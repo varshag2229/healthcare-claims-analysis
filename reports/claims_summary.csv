@@ -1,0 +1,11 @@
+diagnosis_name,total_claims,total_billed,denial_rate
+Hypertension,1538,67085372.75,21.5%
+Pneumonia,1531,67034022.89,20.8%
+Appendectomy,1551,66624004.15,19.9%
+Heart Disease,1515,65189210.03,19.9%
+Fracture - Hip,1471,63685505.32,21.3%
+COPD,1484,63203441.61,19.6%
+Stroke,1495,63103858.54,20.3%
+Knee Replacement,1507,63079251.63,20.2%
+Diabetes Type 2,1460,62209516.85,20.5%
+Cancer - Lung,1448,61280462.71,17.4%
